@@ -3,8 +3,8 @@
   <label>Backend Developer</label>
   <h3><a href=""> 🌐 BeethoDev 📲</a></h3>
 </div>
-<img src="https://github.com/AlbertoGarcia1010/AlbertoGarcia1010/assets/105021724/164d4a84-c380-4d80-b2fe-1af60d62f4fb" height="250px" width="100%">
 
+![banner_with_name](https://github.com/user-attachments/assets/88322679-2940-481e-ba02-422791644773)
 
 ## 🎯 Habilidades & Tecnologias
 
