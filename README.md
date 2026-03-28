@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hola, Soy Alberto Garcia 👋</h1>
   <label>Backend Developer</label>
-  <h3><a href="http://gitlab.com/AlbertoGarcia1010"> 🌐 BeethoDev 📲</a></h3>
+  <h3><a href="http://gitlab.com/AlbertoGarcia1010" target="_blank> 🌐 BeethoDev 📲</a></h3>
 </div>
 
 ![banner_with_name](https://github.com/user-attachments/assets/88322679-2940-481e-ba02-422791644773)
